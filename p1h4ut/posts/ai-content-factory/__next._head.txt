@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31676,["/_next/static/chunks/0qitoygr8elyz.js","/_next/static/chunks/0c14tw~0ik6j8.js"],"ViewportBoundary"]
+3:I[31676,["/_next/static/chunks/0qitoygr8elyz.js","/_next/static/chunks/0c14tw~0ik6j8.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[36564,["/_next/static/chunks/0qitoygr8elyz.js","/_next/static/chunks/0c14tw~0ik6j8.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"从0到1：搭建AI内容工厂的底层逻辑 | Raymen's Blog"}],["$","meta","1",{"name":"description","content":"分享我如何用AI工具搭建自动化内容生产流程，实现公众号、短视频、小红书多平台一键分发。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8Y_mStJ4r9iA_Qg3Na2Y_"}
